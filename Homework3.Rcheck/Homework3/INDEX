@@ -1,0 +1,4 @@
+postmean                importance sampling
+postpollution           Hierarchical gibbs sampling with metropolis
+                        step
+postsample              Rejection sampling

@@ -1,0 +1,9 @@
+Package: Homework3
+Type: Package
+Title: Homework 3 (bayesian computing) for Biostat778
+Version: 1.0
+Date: 2014-01-01
+Author: Stephen Cristiano
+Maintainer: <scristia@jhsph.edu>
+Description: Rejection sampling, importance sampling and hybrid gibbs
+License: GPL
